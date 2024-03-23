@@ -5,3 +5,4 @@ Thông tin cá nhân:
 - Ngành học: Hệ thống thông tin
 - MSSV: B2110060
 - Lớp: DI2195A2
+- Nguyễn Hà Anh Thư
